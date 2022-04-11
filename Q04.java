@@ -29,10 +29,10 @@ public class Q04 {
 		{
 			System.out.println("\n Este número é ímpar e positivo");
 		}
-		else if(num<0 && num%2==1)
-		{
+		else {
 			System.out.println("\n Este número é ímpar e negativo");
 		}
+		
 		
 	}
 	
