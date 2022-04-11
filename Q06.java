@@ -1,10 +1,13 @@
 package Exercicios01_Condicionais;
 
+import java.util.Scanner;
+
 public class Q06 {
 
 	public static void main(String[] args) {
 
-
+		Scanner leia = new Scanner(System.in);
+		
 		/* Elabore um sistema que dada a idade de um nadador classifique-o em uma das seguintes categorias:
 		   Infantil A = 5 a 7 anos
 		   Infantil B = 8 a 11 anos
